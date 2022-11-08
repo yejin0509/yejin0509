@@ -34,9 +34,17 @@ Here are some ideas to get you started:
 <b>- 현 한세대학교 컴퓨터공학과 2학년 재학 중<br>
 <br><br>
 <h2>🔩 자격사항 🔩</h2>
-- <b>정보처리기능사</b> / 취득일자 - 2018년 02월 28일 / 한국산업인력공단<br>
-- <b>컴퓨터활용능력</b> / 2급 / 취득일자 - 2017년 06월 16일 / 대한상공회의소
+- 정보처리기능사 / 취득일자 - 2018년 02월 28일 / 한국산업인력공단<br>
+- 컴퓨터활용능력 / 2급 / 취득일자 - 2017년 06월 16일 / 대한상공회의소
 <br><br>
+<h2>⌨️ Project ⌨️</h2>
+- Funding_Site - 대학생을 위한 펀딩 웹사이트 제작 중<br>
+- FirstStep - AAC교육 기반 애플리케이션 제작 중<br>
+- URL Folder - url 저장을 위한 웹사이트 제작<br>
+- Raspberrypi - 온습도 센서, teachablemachine, vision_kit, voice_kit 사용<br>
+- Arduino - aws연결, 온습도, LED 센서, Node-red UI 연결 등<br>
+ <br><br>
+    
 <h2>✏️ Tech Stack ✏️</h2>
   
 ![Raspberrypi](https://img.shields.io/badge/-Raspberrypi-ED207F?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)
