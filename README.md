@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 - 컴퓨터활용능력 / 2급 / 취득일자 - 2017년 06월 16일 / 대한상공회의소
 <br><br>
 <h2>⌨️ Project ⌨️</h2>
-- Funding_Site - 대학생을 위한 펀딩 웹사이트 제작 중<br>
-- FirstStep - AAC교육 기반 애플리케이션 제작 중<br>
+- Funding_Site - 대학생을 위한 펀딩 웹사이트 제작<br>
+- FirstStep - AAC교육 기반 애플리케이션 제작<br>
 - URL Folder - url 저장을 위한 웹사이트 제작<br>
 - Raspberrypi - 온습도 센서, teachablemachine, vision_kit, voice_kit 사용<br>
 - Arduino - aws연결, 온습도, LED 센서, Node-red UI 연결 등<br>
